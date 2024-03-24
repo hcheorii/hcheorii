@@ -6,7 +6,7 @@
 #### Computer and Electronic Systems Engineering 
 I’m currently learning React & Typescript
   
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=sungmin306&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
+![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hcheorii&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
 
 
