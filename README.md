@@ -9,6 +9,8 @@ I’m currently learning React & Typescript
 ![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=hcheorii&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungmin306&layout=compact&theme=material-palenight)-->
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hcheorii&layout=compact&theme=dracula)
+
 
 ## ▎🛠 Tech Stacks
 - Back-end :<span><img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/></span>
